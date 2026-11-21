@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<defs><path id="arc" d="M70 200a130 130 0 0 0 260 0"/></defs>
+<circle cx="200" cy="200" r="190" fill="#FFFFFF"/>
+<circle cx="200" cy="200" r="176" fill="#D9A441"/>
+<circle cx="200" cy="200" r="158" fill="none" stroke="#1C2430" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round" opacity=".7"/>
+<g transform="translate(122.0 97.0) scale(6.5)" fill="none" stroke="#1C2430" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M18.8 12L21.6 12M18.28 14.6L20.87 15.67M16.81 16.81L18.79 18.79M14.6 18.28L15.67 20.87M12 18.8L12 21.6M9.4 18.28L8.33 20.87M7.19 16.81L5.21 18.79M5.72 14.6L3.13 15.67M5.2 12L2.4 12M5.72 9.4L3.13 8.33M7.19 7.19L5.21 5.21M9.4 5.72L8.33 3.13M12 5.2L12 2.4M14.6 5.72L15.67 3.13M16.81 7.19L18.79 5.21M18.28 9.4L20.87 8.33"/><circle cx="10.2" cy="11.2" r="0.8" fill="#1C2430" stroke="none"/><circle cx="13.8" cy="11.2" r="0.8" fill="#1C2430" stroke="none"/><path d="M10.6 14h2.8"/></g>
+<text font-family="Young Serif, serif" font-weight="400" font-size="40" fill="#1C2430" text-anchor="middle" letter-spacing="1"><textPath href="#arc" startOffset="50%">Sol</textPath></text>
+</svg>

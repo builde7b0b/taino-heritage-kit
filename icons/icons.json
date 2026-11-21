@@ -1,0 +1,192 @@
+{
+  "viewBox": "0 0 24 24",
+  "strokeWidth": 1.75,
+  "icons": [
+    {
+      "name": "sol-petroglifo",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Sun motif in petroglyph style",
+      "file": "svg/sol-petroglifo.svg"
+    },
+    {
+      "name": "luna",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Moon with face",
+      "file": "svg/luna.svg"
+    },
+    {
+      "name": "espiral",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Spiral — water, wind, cycles",
+      "file": "svg/espiral.svg"
+    },
+    {
+      "name": "doble-espiral",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Double spiral",
+      "file": "svg/doble-espiral.svg"
+    },
+    {
+      "name": "huracan",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Hurakán / storm spiral (origin of the word hurricane)",
+      "file": "svg/huracan.svg"
+    },
+    {
+      "name": "rostro",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Petroglyph face",
+      "file": "svg/rostro.svg"
+    },
+    {
+      "name": "figura-ancestral",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Ancestral figure (stylized, not a copy of a specific carving)",
+      "file": "svg/figura-ancestral.svg"
+    },
+    {
+      "name": "cemi-tres-puntas",
+      "category": "Sky & Spirit (stylized)",
+      "description": "Three-pointed stone (trigonolito) silhouette",
+      "file": "svg/cemi-tres-puntas.svg"
+    },
+    {
+      "name": "coqui-petroglifo",
+      "category": "Creatures",
+      "description": "Coquí in petroglyph style",
+      "file": "svg/coqui-petroglifo.svg"
+    },
+    {
+      "name": "murcielago",
+      "category": "Creatures",
+      "description": "Bat — night spirits",
+      "file": "svg/murcielago.svg"
+    },
+    {
+      "name": "colibri",
+      "category": "Creatures",
+      "description": "Hummingbird (colibrí)",
+      "file": "svg/colibri.svg"
+    },
+    {
+      "name": "tortuga-petroglifo",
+      "category": "Creatures",
+      "description": "Turtle in petroglyph style",
+      "file": "svg/tortuga-petroglifo.svg"
+    },
+    {
+      "name": "pez",
+      "category": "Creatures",
+      "description": "Fish",
+      "file": "svg/pez.svg"
+    },
+    {
+      "name": "bohio",
+      "category": "Land & Home",
+      "description": "Bohío house",
+      "file": "svg/bohio.svg"
+    },
+    {
+      "name": "hamaca",
+      "category": "Land & Home",
+      "description": "Hamaca (hammock — a Taíno word)",
+      "file": "svg/hamaca.svg"
+    },
+    {
+      "name": "canoa",
+      "category": "Land & Home",
+      "description": "Canoa (canoe — a Taíno word)",
+      "file": "svg/canoa.svg"
+    },
+    {
+      "name": "batey",
+      "category": "Land & Home",
+      "description": "Batey ceremonial plaza / ball court",
+      "file": "svg/batey.svg"
+    },
+    {
+      "name": "pelota-batu",
+      "category": "Land & Home",
+      "description": "Batú ball game",
+      "file": "svg/pelota-batu.svg"
+    },
+    {
+      "name": "duho",
+      "category": "Land & Home",
+      "description": "Duho ceremonial seat",
+      "file": "svg/duho.svg"
+    },
+    {
+      "name": "montana",
+      "category": "Land & Home",
+      "description": "Mountain (cordillera)",
+      "file": "svg/montana.svg"
+    },
+    {
+      "name": "rio",
+      "category": "Land & Home",
+      "description": "River / water",
+      "file": "svg/rio.svg"
+    },
+    {
+      "name": "ceiba-sagrada",
+      "category": "Land & Home",
+      "description": "Sacred ceiba tree",
+      "file": "svg/ceiba-sagrada.svg"
+    },
+    {
+      "name": "caracol-guamo",
+      "category": "Land & Home",
+      "description": "Guamo conch trumpet",
+      "file": "svg/caracol-guamo.svg"
+    },
+    {
+      "name": "yuca",
+      "category": "Food & Craft",
+      "description": "Yuca (cassava) plant",
+      "file": "svg/yuca.svg"
+    },
+    {
+      "name": "casabe",
+      "category": "Food & Craft",
+      "description": "Casabe on a burén griddle",
+      "file": "svg/casabe.svg"
+    },
+    {
+      "name": "maiz",
+      "category": "Food & Craft",
+      "description": "Maíz (corn — a Taíno word)",
+      "file": "svg/maiz.svg"
+    },
+    {
+      "name": "aji",
+      "category": "Food & Craft",
+      "description": "Ají pepper (a Taíno word)",
+      "file": "svg/aji.svg"
+    },
+    {
+      "name": "higuera-jicara",
+      "category": "Food & Craft",
+      "description": "Higüera gourd bowl",
+      "file": "svg/higuera-jicara.svg"
+    },
+    {
+      "name": "vasija",
+      "category": "Food & Craft",
+      "description": "Clay vessel with adornos",
+      "file": "svg/vasija.svg"
+    },
+    {
+      "name": "guayo",
+      "category": "Food & Craft",
+      "description": "Guayo grater",
+      "file": "svg/guayo.svg"
+    },
+    {
+      "name": "maraca-taina",
+      "category": "Food & Craft",
+      "description": "Maraca",
+      "file": "svg/maraca-taina.svg"
+    }
+  ]
+}

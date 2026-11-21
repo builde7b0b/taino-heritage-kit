@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<defs><path id="arc" d="M70 200a130 130 0 0 0 260 0"/></defs>
+<circle cx="200" cy="200" r="190" fill="#FFFFFF"/>
+<circle cx="200" cy="200" r="176" fill="#8A8378"/>
+<circle cx="200" cy="200" r="158" fill="none" stroke="#1C2430" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round" opacity=".7"/>
+<g transform="translate(122.0 97.0) scale(6.5)" fill="none" stroke="#1C2430" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12.5h20c-1.2 3.4-4.6 5.5-10 5.5S3.2 15.9 2 12.5z"/><path d="M15.5 3.5 12 12.5"/><path d="M11.4 14l-.9 2.6 1.6.6 1-2.6"/><path d="M2 21c1.7 0 2.3-1 4-1s2.3 1 4 1 2.3-1 4-1 2.3 1 4 1 2.3-1 4-1"/></g>
+<text font-family="Young Serif, serif" font-weight="400" font-size="40" fill="#1C2430" text-anchor="middle" letter-spacing="1"><textPath href="#arc" startOffset="50%">Canoa</textPath></text>
+</svg>
