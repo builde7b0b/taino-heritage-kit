@@ -1,0 +1,33 @@
+/* Taíno Heritage Kit — design tokens. Licensed CC BY 4.0. */
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&family=Work+Sans:wght@400;600;700&display=swap');
+:root {
+  --color-bija: #B5361F; /* Bija / achiote red — natural pigment used for body paint and dye */
+  --color-barro: #B8693D; /* Barro — fired clay of burén griddles and vessels */
+  --color-oro-casabe: #D9A441; /* Oro casabe — toasted cassava bread */
+  --color-ceiba: #3F6B3A; /* Ceiba green — the sacred tree */
+  --color-rio: #2F6F7E; /* Río — mountain river water */
+  --color-piedra: #8A8378; /* Piedra — river stone of the petroglyphs */
+  --color-arena: #EAD8B8; /* Arena — sand and batey earth */
+  --color-yuca: #F7F0E1; /* Yuca — cassava-flesh cream background */
+  --color-jagua: #1C2430; /* Jagua — deep indigo pigment from the jagua fruit; text color */
+  --kit-primary: #B5361F;
+  --kit-secondary: #3F6B3A;
+  --kit-accent: #D9A441;
+  --kit-surface: #F7F0E1;
+  --kit-surface-alt: #EAD8B8;
+  --kit-text: #1C2430;
+  --kit-success: #3F6B3A;
+  --kit-info: #2F6F7E;
+  --kit-on-primary: #FFFFFF;
+  --kit-on-secondary: #FFFFFF;
+  --kit-on-accent: #1C2430;
+  --font-display: 'Young Serif', Georgia, serif;
+  --font-body: 'Work Sans', system-ui, sans-serif;
+  --font-display-weight: 400;
+  --radius-sm: 6px; --radius-md: 12px; --radius-lg: 20px; --radius-xl: 28px; --radius-pill: 999px;
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 32px; --space-7: 48px; --space-8: 64px; --space-9: 96px;
+  --text-xs: .75rem; --text-sm: .875rem; --text-md: 1rem; --text-lg: 1.25rem; --text-xl: 1.5rem; --text-2xl: 2rem; --text-3xl: 2.75rem; --text-4xl: 3.75rem;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.06), 0 4px 14px rgba(0,0,0,.06);
+  --shadow-md: 0 6px 24px rgba(0,0,0,.12);
+  --shadow-lg: 0 24px 60px rgba(0,0,0,.18);
+}
